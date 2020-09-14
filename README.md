@@ -2,6 +2,10 @@
   # Good README.md Generator        
   [ ![GitHub license] (https://img.shields.io/badge/license-MIT-blue.svg) ](https://github.com/kathleendorse/goodReadMeGen)
   
+  
+  [![Watch the video](https://github.com/kathleendorse/goodReadMeGen/blob/master/readmedemothumb.png)](https://youtu.be/jmX3pMQ2E5U)
+
+  
   ## Description
   This is a command-line application that dynamically generates a professional READ.md from a user's input using the node Inquirer package. The general format ensures all basic requirements for a good README.md file are met. In order to serve dual purposes, I have used the application to generate the README.md for this project so it also serves as a "sample".  The only change made to this README.md after the fact/outside of the application- will be the addition of the walkthrough video demonstrating the application's functionality.  This must be added after the fact because it is being recorded simultaneously. 
 
